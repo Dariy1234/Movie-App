@@ -1,0 +1,23 @@
+.movie{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.movie img{
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+.movie h2{
+    font-size: 24px;
+    margin: 10px 0;
+}
+.movie p{
+    font-size: 16px;
+    color: #555;
+}
+/* }
+ */

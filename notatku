@@ -1,0 +1,1 @@
+{{ url_for('delete_comment', comment_id=comment.id) }}
